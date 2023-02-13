@@ -45,14 +45,14 @@ async function Post({ params: { slug } }: Props) {
                 <div className="relative min-h-56 flex flex-col md:flex-row justify-between">
                     <div className="absolute top-0 w-full h-full opacity-10 blur-sm p-10">
                         <Image
-                            className="object-cover object-center mx-auto"
+                            className="rounded-xl object-cover object-center mx-auto"
                             src={urlFor(post.mainImage).url()}
                             alt={post.author.name}
                             fill
                         />
                     </div>
 
-                    <section className="p-5 bg-teal-400 w-full">
+                    <section className="rounded-xl p-5 bg-teal-400 w-full">
                         <div className="flex flex-col md:flex-row justify-between gap-y-5">
                             <div>
                                 <h1 className="text-4xl font-extrabold">{post.title}</h1>

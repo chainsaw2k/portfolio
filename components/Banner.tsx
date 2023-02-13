@@ -24,11 +24,11 @@ function Banner() {
           </p>
         </div>
       </div>
-      <div className="flex items-center">
+      <div className="hidden items-center md:flex">
         <Image
-          className="rounded-none"
+          className="rounded-xl"
           src="/pm3.jpg"
-          alt="Tom McCollough Image"
+          alt="People brainstorming in a conference room"
           height={1200}
           width={1200}
         />
