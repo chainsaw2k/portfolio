@@ -1,30 +1,30 @@
-import { ArrowPathIcon, CloudArrowUpIcon, FingerPrintIcon, LockClosedIcon } from '@heroicons/react/24/outline'
+import { FireIcon, FaceSmileIcon, ArrowPathIcon, CloudArrowUpIcon, FingerPrintIcon, LockClosedIcon, ForwardIcon, EyeIcon, ArrowsPointingInIcon } from '@heroicons/react/24/outline'
 
 
 const features = [
     {
         name: 'Vision and Strategy',
         description:
-            'Likely you already have a vision and a strategy. Do you need help refininig it, testing it, or communicating it to your teams?',
-        icon: CloudArrowUpIcon,
+            'Likely you already have a vision and a strategy. Do you need help refining it, testing it, or communicating it to your teams?',
+        icon: EyeIcon,
     },
     {
         name: 'High-Performance Execution',
         description:
             'Making sure that teams are solving the right problems, that hypotheses are tested, and interventions are delivered early and often, are key to high-performance.',
-        icon: LockClosedIcon,
+        icon: FireIcon,
     },
     {
         name: 'Alignment Across the Org',
         description:
             'Getting everyone rowing in the same direction is challenging but critical. Effective and frequent presentation of problems being tackled and solutions being worked are one piece of this puzzle.',
-        icon: ArrowPathIcon,
+        icon: ArrowsPointingInIcon,
     },
     {
         name: 'Employee Engagement > Customer Engagement',
         description:
             'Product management, when done well, is inclusive, which keeps employees engaged. And when employees are engaged, customer engagement will follow.',
-        icon: FingerPrintIcon,
+        icon: FaceSmileIcon,
     },
 ];
 
@@ -45,8 +45,7 @@ function ProblemsSolved() {
                                 </div>
                             </div>
                         </div>
-                        <p className="mb-16 text-base text-center text-gray-500">Quis tellus eget adipiscing convallis sit sit eget aliquet quis. Suspendisse eget egestas a elementum
-                        pulvinar et feugiat blandit at. In mi viverra elit nunc.</p>
+                        <p className="mb-16 text-base text-center text-gray-500">Clarifying the problems facing your customers, generating alignment across your org, and realizing the outcomes your customers need.</p>
                     </div>
                 </div>
                 <div className="mx-auto mt-16 max-w-2xl sm:mt-20 lg:mt-24 lg:max-w-4xl">
