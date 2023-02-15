@@ -17,13 +17,13 @@ const features = [
     {
         name: 'Alignment Across the Org',
         description:
-            'Getting everyone rowing in the same direction is challenging but critical. Effective and frequent presentation of problems being tackled and solutions being worked are one piece of this puzzle.',
+            'Getting everyone rowing in the same direction is challenging but critical. Effective and frequent presentation of problems being tackled and solutions being worked are one piece of the alignment puzzle.',
         icon: ArrowsPointingInIcon,
     },
     {
         name: 'Employee Engagement > Customer Engagement',
         description:
-            'Product management, when done well, is inclusive, which keeps employees engaged. And when employees are engaged, customer engagement will follow.',
+            'Product management, when done well, is inclusive, which keeps employees engaged. And when employees are engaged, customer engagement follows.',
         icon: FaceSmileIcon,
     },
 ];
