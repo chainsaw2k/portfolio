@@ -8,15 +8,9 @@ function Banner() {
         <h1 className="text-5xl">W. Thomas McCollough</h1>
         <h2 className="mt-5 md:mt-2 text-xl font-normal">Product and Technology Leadership for Developer Solutions</h2>
         <div className="mt-4 mb-10 text-base font-normal">
-          <p className="mt-3">I am a software leader with considerable experience in building and running product management
-            and engineering teams. I achieve high-performance delivery of innovative solutions that drive
-            recurring revenue by giving application developers the outcomes they need.</p>
-          <p className="mt-3">I've had a broad impact on the organizations I've led. Most notably, I've overseen many new product
-            introductions, scaled teams globally, transformed large organizations, been recognized for a
-            strong customer focus, and have been consistent at delivering results on a rapid & unrelenting cadence.    </p>
-          <p className="mt-3">My broad experience in both engineering and product gives me a
-            comprehensive perspective from which to both understand my developer customer and lead 
-            teams building developer solutions.          </p>
+          <p className="mt-3">I am a technology leader with considerable experience building and running product
+          management and engineering teams. With a computer science background, I focus on serving developers with
+          cloud-native managed services.</p>
         </div>
       </div>
       <div className="hidden items-center md:flex">
