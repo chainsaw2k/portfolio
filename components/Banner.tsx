@@ -11,6 +11,10 @@ function Banner() {
           <p className="mt-3">I am a technology leader with considerable experience building and running product
           management and engineering teams. With a computer science background, I focus on serving developers with
           cloud-native managed services.</p>
+          <p className="mt-3">Able to serve in product roles at the principal or director level,
+          or as director-level leadership overseeing both product+engineering.</p>
+          <p className="mt-3">I'm able to contribute in either the pre-product market fit phase or
+          the growth phase. Small, dynamic companies preferred.</p>
         </div>
       </div>
       <div className="hidden items-center md:flex">
