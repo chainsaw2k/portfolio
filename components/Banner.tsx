@@ -15,7 +15,7 @@ function Banner() {
           or as director-level leadership overseeing both product+engineering.</p>
           <p className="mt-3">I'm able to contribute in either the pre-product market fit phase or
           the growth phase. Small, dynamic companies preferred.</p>
-          <p className="mt-3">Open to mentorship opportunities. DM me if you think I can help.</p>
+          <p className="mt-3">Open to mentorship opportunities. DM me if you'd like to explore'.</p>
         </div>
       </div>
       <div className="hidden items-center md:flex">
