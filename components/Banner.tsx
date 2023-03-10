@@ -11,7 +11,7 @@ function Banner() {
         <div className="mt-4 mb-10 text-base font-normal">
           <p className="mt-3">I am a technology leader with considerable experience building and running product
           management and engineering teams. With a computer science background, I focus on serving developers with
-          cloud-native managed services, with a present focus on <span className="font-bold">helping developers
+          cloud-native managed services, and particularly on <span className="font-bold">helping developers
           write globally distributed (i.e. locally performant and compliant)
           software just as easily as they wrote their first "Hello World".</span></p>
           <p className="mt-3">Able to serve in product roles at the principal or director level,
