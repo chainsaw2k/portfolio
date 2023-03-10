@@ -17,7 +17,7 @@ function Banner() {
           <p className="mt-3">Able to serve in product roles at the principal or director level,
           or as director-level leadership overseeing both product+engineering.</p>
           <p className="mt-3">I'm able to contribute in either the pre-product market fit phase or
-          the growth phase. Small to medium, dynamic companies preferred.</p>
+          the growth phase. Small to medium, dynamic companies preferred. Early stage and established startups are great.</p>
           <p className="mt-3">Open to mentorship opportunities. DM me if you'd like to explore.</p>
         </div>
       </div>
